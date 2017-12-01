@@ -1,0 +1,9 @@
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\xxx_files\wrapper_bg.png
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\xxx_files\wrapper_simple_bg.png
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\xxx_files\ebab_mbmcp.png
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\xxx_files\ebab_mbmcp_d.png
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\xxx_files\ebab_mbmcp_c.png
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\xxx_files\mbjsmbmcp.js
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\xxx_files\mbcsmbmcp.css
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\xxx.htm
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\xxx_files\filelist_bvib.txt

@@ -1,0 +1,8 @@
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\menu\wrapper_bg.png
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\menu\wrapper_simple_bg.png
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\menu\ebab_mbbvib.png
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\menu\ebab_mbbvib_d.png
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\menu\ebab_mbbvib_c.png
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\menu\mbjsmbbvib.js
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\menu\mbcsmbbvib.css
+F:\_V Semestr\_SITE_JAPAN_\japan_site\web\menu\filelist_bvib.txt
